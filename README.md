@@ -12,25 +12,17 @@ Without normalization and deduplication, downstream products receive conflicting
 
 This pipeline transforms messy inputs into trustworthy canonical profiles.
 
-## Architecture
+## System Architecture
 
-```
-Input Sources [CSV, PDF, JSON, HTML, URL]
-    ↓
-Parsers [Extract raw objects]
-    ↓
-Normalizers [Dates, phones, names, skills, locations]
-    ↓
-Merger [Priority-based conflict resolution]
-    ↓
-Confidence & Provenance Scoring
-    ↓
-Configurableector [Reshape output]
-    ↓
-Pydantic Validator [Type checking]
-    ↓
-Output [JSON: canonical + projected]
-```
+### 1. High-Level Design (HLD)
+The Candidate Profile Transformer handles unstructured and structured candidate records, merging them dynamically into a single, clean canonical profile:
+
+![High-Level Design](hld_diagram.png)
+
+### 2. Low-Level Design (LLD) - Sequence Flow
+The sequence diagram below shows the exact method execution call trace and parser invocation sequence:
+
+![Low-Level Design](lld_diagram.png)
 
 ## Features
 
