@@ -1,0 +1,47 @@
+{
+  "name": "Mathivanan S",
+  "headline": "Summer Intern at Amazon | B.Tech CSE (AI) Student",
+  "location": "Coimbatore, Tamil Nadu, India",
+  "url": "https://linkedin.com/in/smadhi1234",
+  "skills": ["Python", "FastAPI", "Docker", "Kubernetes", "PyTorch", "React.js", "System Design", "Cloud Computing"],
+  "certifications": [
+    "Software Engineer Intern - HackerRank (Sep 2025)",
+    "SQL Advanced - HackerRank (Aug 2025)",
+    "SQL Intermediate - HackerRank (Aug 2025)",
+    "SQL Basic - HackerRank (Aug 2025)",
+    "Certificate of Excellence in Daily Quiz - Unstop (Feb 2025)",
+    "Certificate of Excellence in 17-02-2025 of Engineering - Unstop (Feb 2025)",
+    "Certificate of Excellence in Round 1: Learning Boot Camp of Unstop Talent Park 2025 - Unstop (Mar 2025)",
+    "Certificate of Excellence in Treasure Hunt- January Series - Unstop (Feb 2025)",
+    "Java (Basic) - HackerRank (Feb 2025)",
+    "Prepare Data for ML APIs on Google Cloud Skill Badge - Google (Jun 2025)",
+    "Google Cloud Computing Foundations Certificate - Google (Jun 2025)",
+    "Build a Secure Google Cloud Network Skill Badge - Google (Jun 2025)",
+    "Introduction to AI for business users - Microsoft (Jun 2024)",
+    "Bring AI to business users in your organization - Microsoft (Jun 2024)",
+    "PL-900: Microsoft Power Platform Fundamentals - Microsoft (Jun 2024)",
+    "Transform your business applications with fusion development - Microsoft (Jun 2024)",
+    "Implement Load Balancing on Compute Engine Skill Badge - Google (Jun 2025)",
+    "Google Cloud Data Analytics Certificate - Google (Jun 2025)",
+    "Set Up an App Dev Environment on Google Cloud Skill Badge - Google (Jun 2025)",
+    "Python (Basic) - HackerRank (Feb 2025)",
+    "Problem Solving Skill Test - HackerRank (Nov 2024)"
+  ],
+  "experience": [
+    {
+      "company": "Amazon",
+      "title": "Summer Intern",
+      "start": "2026-05",
+      "end": "2026-06-26",
+      "description": "Gaining hands-on industry experience in a fast-paced technical environment. Working with real-world systems, operational workflows, and scalable technologies. Collaborating with teams to learn and contribute to enterprise-level solutions."
+    }
+  ],
+  "education": [
+    {
+      "school": "Amrita Vishwa Vidyapeetham",
+      "degree": "B.Tech",
+      "field": "Computer Science and Engineering (Artificial Intelligence)",
+      "year": 2027
+    }
+  ]
+}

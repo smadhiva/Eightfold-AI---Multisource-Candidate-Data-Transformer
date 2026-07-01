@@ -1,0 +1,35 @@
+{
+  "id": "ATS-998877",
+  "name": "Mathivanan S",
+  "email": "smadhivanan1234@gmail.com",
+  "phone": "+91-9087494162",
+  "location": "Coimbatore, Tamil Nadu, India",
+  "title": "Software Development Engineer Intern",
+  "headline": "Specialist in building Scalable AI, multimodal ML, and cloud-native backends",
+  "years_of_experience": 1,
+  "skills": ["Python", "C++", "FastAPI", "React.js", "Docker", "Kubernetes", "PostgreSQL", "MongoDB", "GCP"],
+  "experience": [
+    {
+      "company": "Amazon",
+      "title": "Summer Intern",
+      "start": "2026-05",
+      "end": "Present",
+      "summary": "Working with real-world systems, operational workflows, and scalable technologies in a fast-paced technical environment."
+    },
+    {
+      "company": "Gadgeon Systems Inc",
+      "title": "AI Intern",
+      "start": "2026-01",
+      "end": "2026-03",
+      "summary": "Designed and implemented end-to-end Video RAG pipeline for semantic video content retrieval."
+    }
+  ],
+  "education": [
+    {
+      "institution": "Amrita Vishwa Vidyapeetham",
+      "degree": "B.Tech",
+      "field": "Computer Science and Engineering (AI)",
+      "end_year": "2027"
+    }
+  ]
+}

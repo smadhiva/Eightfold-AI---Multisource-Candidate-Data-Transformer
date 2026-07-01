@@ -1,0 +1,65 @@
+Mathivanan S
+smadhivanan1234@gmail.com — +91-9087494162 — linkedin.com/in/smadhi1234 — github.com/smadhiva
+
+Summary
+Ambitious Software Development Engineer and pre-final year B.Tech in Computer Science and Engineering (AI) student. Experienced in building full-stack AI systems spanning multimodal ML, LLMs, cloud-native backends, and real-time web applications. Strong foundation in DSA, OS, Networking, and System Design. Passionate about scalable AI, agentic workflows, and applied research with real-world impact.
+
+Education
+• B.Tech in Computer Science and Engineering (AI), Amrita Vishwa Vidyapeetham, Coimbatore (Sep 2023 – May 2027)
+  – CGPA: 9.59 / 10
+  – Coursework: Data Structures, Algorithms, Operating Systems, Networking (IoT), Machine Learning
+• Minor in Robotics and Automation, Amrita Vishwa Vidyapeetham (Sep 2023 – May 2027)
+  – Focus: Robotics, Embedded Systems, Automation
+
+Experience
+• Summer Intern, Amazon — Bengaluru, India (May 2026 – Present)
+  – Gaining hands-on industry experience in a fast-paced technical environment.
+  – Working with real-world systems, operational workflows, and scalable technologies.
+  – Collaborating with teams to learn and contribute to enterprise-level solutions.
+• AI Intern, Gadgeon Systems Inc — Kochi, India (Jan 2026 – Mar 2026)
+  – Designed and implemented an end-to-end Video RAG pipeline for semantic retrieval and querying of video content.
+  – Built multimodal processing workflows (video, audio, text) using frame extraction, object detection, and captioning models.
+  – Developed RAG-based retrieval systems with vector databases Chroma and LLMs for context-aware response generation.
+  – Deployed scalable FastAPI services for video ingestion, embedding, and real-time intelligent querying.
+
+Projects
+• FIND In’ — Full-Stack Hybrid RAG Platform (AI-Verse Hackathon Winner)
+  – Built a full-stack hybrid RAG system combining private enterprise documents with live web data.
+  – Designed agentic LLM workflows for company intelligence: funding analysis, risk assessment, and competitor insights.
+  – Implemented vector databases, multilingual NLP pipelines, and React-based dashboards.
+  – Optimized retrieval + reasoning latency for real-time, explainable business insights; secured 1st place.
+• Quantum-Edge — Full-Stack Finance Portfolio Copilot
+  – Developed a real-time, multi-agent investment intelligence platform supporting multiple portfolios.
+  – Implemented streaming RAG pipelines using Pathway with continuous ingestion of live market data.
+  – Built FastAPI + WebSocket backends and React frontends for low-latency financial analytics.
+  – Integrated Gemini LLM for contextual reasoning and decision support.
+• Multimodal Plant Disease Prediction — CNN + QNN Hybrid Full-Stack System
+  – Developed a multimodal classification system supporting image, image–text, and text-only inputs.
+  – Designed a CNN + Quantum Neural Network (QNN) hybrid model for enhanced feature representation.
+  – Integrated NLP pipelines with vision models for joint reasoning across modalities.
+  – Built a full-stack application with ML inference APIs, automated preprocessing, and user-facing dashboards.
+  – Achieved robust classification across 15 plant diseases, handling noisy data and class imbalance.
+
+Technical Skills
+• Languages: Python, Java, C++, C, JavaScript, SQL, HTML, CSS
+• CS Fundamentals: DSA, OOP, OS, Networking, System Design
+• Frameworks & Tools: FastAPI, Flask, React.js, Docker, Kubernetes, Git, REST APIs
+• AI/ML: PyTorch, TensorFlow, Scikit-learn, Hugging Face, FAISS, CNNs, QNNs, Multimodal Learning
+• Databases: PostgreSQL, MongoDB, MySQL
+• Cloud Platforms: GCP, Azure
+
+Certifications
+• HackerRank: Software Engineer Intern, SQL Advanced, Java, Python, Problem Solving
+• Google Cloud: Data Analytics, ML APIs, Load Balancing, Cloud Foundations
+• Microsoft: PL-900 Power Platform, AI for Business Users, Fusion Development
+• Unstop: Engineering Excellence
+
+Achievements & Awards
+• Finalist — JP Morgan Code for Good 2025
+• Winner — AI VERSE Hackathon (GenAI Track)
+• Finalist — GenAI x Gender Hackathon 2025
+• Selected Participant — Microsoft SEFA 2025
+
+Extracurricular & Leadership
+• Organizer — Webots Hackathon, Amrita Robotics Club
+• Soft Skills: Leadership, Collaboration, Communication, Adaptability

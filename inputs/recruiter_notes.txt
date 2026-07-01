@@ -1,0 +1,26 @@
+Jane Smith
+Principal Engineer at TechCorp
+jane.smith@techcorp.com
++1-415-987-6543
+https://www.linkedin.com/in/janesmith
+
+Recruiter Notes:
+Excellent candidate. 10+ years of backend experience. Led major architectural projects.
+Strong in Python, Go, and system design. Comfortable with cloud (AWS/Azure).
+Women in tech advocate. Interested in mentorship opportunities.
+
+Skills:
+Python, JavaScript, Go, SQL, AWS, Kubernetes, Docker, System Design, Team Leadership
+
+Experience:
+- Principal Engineer at TechCorp (2020-Present)
+- Senior Software Engineer at Acme Corp (2018-2019)
+
+Education:
+- B.S. Computer Science from UC Berkeley (2014)
+
+Certifications:
+- AWS Solutions Architect Professional
+- CKA (Kubernetes)
+
+Next steps: Schedule technical interview for next week.

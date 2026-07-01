@@ -1,0 +1,17 @@
+Mathivanan S
+Software Development Engineer Intern
+smadhivanan1234@gmail.com
++91-9087494162
+
+Recruiter Notes:
+Candidate is a B.Tech student in CSE (AI) with a stellar CGPA of 9.59/10.
+Outstanding performance: Winner of the AI VERSE Hackathon (GenAI Track) and Finalist for JP Morgan Code for Good 2025.
+Very strong coding skills (HackerRank SQL/Python/Java badges).
+Highly motivated, quick learner, and shows deep technical clarity in ML, RAG, and System Design.
+
+Skills:
+Python, Java, FastAPI, Docker, Kubernetes, AWS, PyTorch, System Design, DSA, OOP, React.js
+
+Experience:
+- Summer Intern at Amazon (May 2026 - Present)
+- AI Intern at Gadgeon Systems Inc (Jan 2026 - Mar 2026)

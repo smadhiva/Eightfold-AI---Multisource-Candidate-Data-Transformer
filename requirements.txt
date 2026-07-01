@@ -1,0 +1,14 @@
+pandas
+pdfplumber
+PyMuPDF
+beautifulsoup4
+requests
+phonenumbers
+pydantic
+pytest
+rich
+typer
+email-validator
+reportlab
+streamlit
+streamlit-option-menu

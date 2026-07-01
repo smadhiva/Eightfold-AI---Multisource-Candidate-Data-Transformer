@@ -1,0 +1,33 @@
+{
+  "id": "ATS-12345",
+  "name": "Jane Smith",
+  "email": "jane.smith@techcorp.com",
+  "phone": "+1-415-987-6543",
+  "location": "San Francisco, CA",
+  "title": "Principal Engineer",
+  "headline": "Full-stack engineer passionate about scalability",
+  "skills": ["Python", "JavaScript", "Go", "AWS", "Kubernetes", "System Design"],
+  "experience": [
+    {
+      "company": "TechCorp",
+      "title": "Principal Engineer",
+      "start": "2020-01",
+      "end": "2026-06",
+      "summary": "Led architecture redesign"
+    },
+    {
+      "company": "Acme Corp",
+      "title": "Senior Software Engineer",
+      "start": "2018-06",
+      "end": "2019-12"
+    }
+  ],
+  "education": [
+    {
+      "institution": "University of California, Berkeley",
+      "degree": "B.S.",
+      "field": "Computer Science",
+      "year": 2014
+    }
+  ]
+}

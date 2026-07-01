@@ -1,0 +1,113 @@
+{
+  "emails": [
+    "jane.smith@techcorp.com",
+    "smadhivanan1234@gmail.com"
+  ],
+  "phones": [
+    "+15551234567",
+    "2019-2024",
+    "2017-2019",
+    "+919087494162",
+    "+14159876543",
+    "2018-2019"
+  ],
+  "skills": [
+    "Python",
+    "SQL",
+    "React",
+    "AWS",
+    "Kubernetes",
+    "Rust",
+    "JavaScript",
+    "Go",
+    "System Design",
+    "Docker",
+    "Team Leadership"
+  ],
+  "experience": [
+    {
+      "raw": "- Senior Engineer, Acme Corp (2019-2024)"
+    },
+    {
+      "raw": "- Software Engineer, StartupXYZ (2017-2019)"
+    },
+    {
+      "company": "TechCorp",
+      "title": "Principal Engineer",
+      "start": "2020-01",
+      "end": "2026-06",
+      "summary": "Led architecture redesign"
+    },
+    {
+      "company": "Acme Corp",
+      "title": "Senior Software Engineer",
+      "start": "2018-06",
+      "end": "2019-12"
+    }
+  ],
+  "education": [
+    {
+      "raw": "- BSc Computer Science"
+    },
+    {
+      "institution": "University of California, Berkeley",
+      "degree": "B.S.",
+      "field": "Computer Science",
+      "year": 2014
+    }
+  ],
+  "links": [
+    "https://www.linkedin.com/in/janesmith",
+    "https://github.com/janesmith",
+    "https://janesmith.dev",
+    "https://github.com/JaneSmith"
+  ],
+  "full_name": "Jane Smith",
+  "headline": "Senior Engineer",
+  "provenance": {
+    "full_name": [
+      {
+        "field": "full_name",
+        "source": "resume",
+        "method": "direct"
+      }
+    ],
+    "headline": [
+      {
+        "field": "headline",
+        "source": "resume",
+        "method": "direct"
+      }
+    ]
+  },
+  "overall_confidence": 0.6943939393939393,
+  "confidence_fields": {
+    "full_name": 0.0,
+    "headline": 0.95,
+    "emails": {
+      "jane.smith@techcorp.com": 0.9166666666666667,
+      "smadhivanan1234@gmail.com": 0.75
+    },
+    "phones": {
+      "+15551234567": 0.95,
+      "2019-2024": 0.95,
+      "2017-2019": 0.95,
+      "+919087494162": 0.75,
+      "+14159876543": 0.8,
+      "2018-2019": 0.7
+    },
+    "skills": {
+      "Python": 0.9166666666666667,
+      "SQL": 0.875,
+      "React": 0.95,
+      "AWS": 0.9166666666666667,
+      "Kubernetes": 0.9166666666666667,
+      "Rust": 0.85,
+      "JavaScript": 0.8,
+      "Go": 0.8,
+      "System Design": 0.8,
+      "Docker": 0.7,
+      "Team Leadership": 0.7
+    }
+  }
+}

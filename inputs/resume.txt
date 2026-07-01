@@ -1,0 +1,27 @@
+Jane Smith
+Senior Engineer
+
+Email: jane.smith@techcorp.com
+Phone: +1 555 123 4567
+LinkedIn: https://www.linkedin.com/in/janesmith
+GitHub: https://github.com/janesmith
+Website: https://janesmith.dev
+
+Experience
+- Senior Engineer, Acme Corp (2019-2024)
+- Software Engineer, StartupXYZ (2017-2019)
+
+Skills
+- Python3
+- SQL
+- ReactJS
+- Go
+- AWS
+- Kubernetes
+
+Education
+- BSc Computer Science
+
+Certifications
+- AWS Solutions Architect
+- CKA

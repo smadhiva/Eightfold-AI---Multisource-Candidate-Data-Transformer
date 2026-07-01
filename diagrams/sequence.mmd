@@ -1,0 +1,15 @@
+sequenceDiagram
+  participant User
+  participant CLI
+  participant Parsers
+  participant Normalizers
+  participant Merger
+  participant Validator
+  participant Export
+
+  User->>CLI: run with inputs
+  CLI->>Parsers: parse CSV/resume/LinkedIn
+  Parsers->>Normalizers: raw objects
+  Normalizers->>Merger: normalized objects
+  Merger->>Validator: canonical profile
+  Validator->>Export: write JSON

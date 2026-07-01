@@ -1,0 +1,35 @@
+{
+  "full_name": "Jane Smith",
+  "primary_email": "jane.smith@techcorp.com",
+  "phone": "+15551234567",
+  "skills": [
+    "Python",
+    "SQL",
+    "React",
+    "AWS",
+    "Kubernetes",
+    "Rust",
+    "JavaScript",
+    "Go",
+    "System Design",
+    "Docker",
+    "Team Leadership"
+  ],
+  "overall_confidence": 0.6943939393939393,
+  "provenance": {
+    "full_name": [
+      {
+        "field": "full_name",
+        "source": "resume",
+        "method": "direct"
+      }
+    ],
+    "headline": [
+      {
+        "field": "headline",
+        "source": "resume",
+        "method": "direct"
+      }
+    ]
+  }
+}

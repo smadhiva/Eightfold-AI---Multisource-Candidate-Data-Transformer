@@ -1,0 +1,7 @@
+version: '3.8'
+services:
+  app:
+    build: .
+    volumes:
+      - .:/app
+    command: python main.py --csv inputs/recruiter.csv --resume inputs/resume.txt --linkedin inputs/linkedin.html

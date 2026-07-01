@@ -1,0 +1,10 @@
+{
+  "name": "Jane Smith",
+  "bio": "Principal Engineer focused on distributed systems and cloud infrastructure.",
+  "location": "San Francisco, CA",
+  "html_url": "https://github.com/janesmith",
+  "blog": "https://janesmith.dev",
+  "public_repos": 42,
+  "followers": 128,
+  "skills": ["Python", "Go", "Kubernetes", "Docker", "AWS", "FastAPI"]
+}

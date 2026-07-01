@@ -1,0 +1,36 @@
+{
+  "skills_synonyms": {
+    "python3": "Python",
+    "python": "Python",
+    "reactjs": "React",
+    "react": "React",
+    "nodejs": "Node.js",
+    "node": "Node.js",
+    "js": "JavaScript",
+    "javascript": "JavaScript",
+    "go": "Go",
+    "golang": "Go",
+    "aws": "AWS",
+    "kubernetes": "Kubernetes",
+    "k8s": "Kubernetes",
+    "docker": "Docker"
+  },
+  "source_confidence": {
+    "resume": 0.95,
+    "linkedin": 0.9,
+    "github": 0.85,
+    "ats": 0.8,
+    "csv": 0.75,
+    "recruiter_notes": 0.7
+  },
+  "default_phone_region": "US",
+  "projection": {
+    "fields": [
+      {"path": "full_name", "from": "full_name"},
+      {"path": "primary_email", "from": "emails[0]"},
+      {"path": "phone", "from": "phones[0]"},
+      {"path": "skills", "from": "skills"},
+      {"path": "overall_confidence", "from": "overall_confidence"}
+    ]
+  }
+}

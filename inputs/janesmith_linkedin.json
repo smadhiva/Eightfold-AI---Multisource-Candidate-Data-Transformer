@@ -1,0 +1,32 @@
+{
+  "name": "Jane Smith",
+  "headline": "Principal Engineer at TechCorp | Scalability Specialist",
+  "location": "San Francisco, CA",
+  "url": "https://www.linkedin.com/in/janesmith",
+  "skills": ["Python", "Go", "AWS", "Kubernetes", "React", "System Design", "Microservices"],
+  "certifications": ["AWS Certified Solutions Architect", "Google Cloud Professional Architect"],
+  "experience": [
+    {
+      "company": "TechCorp",
+      "title": "Principal Engineer",
+      "start": "2020-01",
+      "end": "Present",
+      "description": "Leading distributed systems team and cloud orchestration strategies."
+    },
+    {
+      "company": "StartupInc",
+      "title": "Senior Engineer",
+      "start": "2018-03",
+      "end": "2019-12",
+      "description": "Implemented high-throughput messaging microservices."
+    }
+  ],
+  "education": [
+    {
+      "school": "Stanford University",
+      "degree": "M.S.",
+      "field": "Computer Science",
+      "year": 2018
+    }
+  ]
+}

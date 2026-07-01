@@ -1,0 +1,12 @@
+flowchart TD
+  A[Recruiter CSV] --> B[CSV Parser]
+  C[Resume PDF] --> D[Resume Parser]
+  E[LinkedIn] --> F[LinkedIn Parser]
+  B --> G[Normalizer]
+  D --> G
+  F --> G
+  G --> H[Merger]
+  H --> I[Confidence & Provenance]
+  I --> J[Projector]
+  J --> K[Validator]
+  K --> L[Output JSON]

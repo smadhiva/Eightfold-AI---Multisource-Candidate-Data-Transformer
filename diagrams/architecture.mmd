@@ -1,0 +1,7 @@
+graph LR
+  A[Inputs] --> B(Parsers)
+  B --> C[Normalizers]
+  C --> D[Merger]
+  D --> E[Confidence & Provenance]
+  E --> F[Projection]
+  F --> G[Validator & Export]
